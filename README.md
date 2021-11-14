@@ -1,2 +1,1 @@
-# amos
-Go
+# INFO 306 Web Design Assignment 
